@@ -31,3 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Section 2
+
+# section 
+
+This is my new section using latex
